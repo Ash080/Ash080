@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Johnrey Apostol but you can call me Ash in virtual world! I am currently 4th year IT student in Pangasinan State University😉
+- 👋 Hi, I’m Johnrey Apostol but you can call me Ash in virtual world! Currently 4th year IT student in Pangasinan State University😉
 - 👀 I’m interested in ... Future
 - 🌱 I’m currently learning ... frontend
 - 💞️ I’m looking to collaborate on ... ("")
