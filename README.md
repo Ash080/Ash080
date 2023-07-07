@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnrey Apostol but you can call me Ash in virtual world! Currently 4th year IT student in Pangasinan State University😉
-- 👀 I’m interested in ... Playing Online Games
+- 👀 I’m interested in ... Developments
 - 🌱 I’m currently learning ... frontend
 - 💞️ I’m looking to collaborate on ... ("")
 - 📫 How to reach me ... Gmail: johnreyapostol16@gmail.com 
