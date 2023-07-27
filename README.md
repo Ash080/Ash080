@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... frontend
 - 💞️ I’m looking to collaborate on ... ("")
 - 📫 How to reach me ... Gmail: johnreyapostol16@gmail.com 
-                         Facebook: https://www.facebook.com/king.boyfriend16 
                          Twitter: https://twitter.com/ashhh_Ong
+                         linkedIn: https://www.linkedin.com/in/johnrey-apostol-911a53283/ 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ash080&theme=radical)
 <!---
